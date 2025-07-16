@@ -1,0 +1,13 @@
+debug/dashboard.o
+debug/gpacalculator.o
+debug/main.o
+debug/mainwindow.o
+debug/noteorganizer.o
+debug/streaksystem.o
+debug/studyplanner.o
+debug/moc_dashboard.o
+debug/moc_gpacalculator.o
+debug/moc_mainwindow.o
+debug/moc_noteorganizer.o
+debug/moc_streaksystem.o
+debug/moc_studyplanner.o
